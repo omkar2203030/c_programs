@@ -39,8 +39,6 @@ gcc program_name.c -o program_name
 ./program_name
 ```
 ### On Windows (Command Prompt):
-cmd
-Copy
-Edit
+```
 gcc program_name.c -o program_name.exe
 program_name.exe
